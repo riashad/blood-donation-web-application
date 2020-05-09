@@ -1,4 +1,4 @@
-# blood-donation-web-application
+#Blood Donation Web Application
 
 This project was created on 2018 and one of my first RAW php projects. 
 
